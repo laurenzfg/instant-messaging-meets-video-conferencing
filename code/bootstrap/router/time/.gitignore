@@ -1,0 +1,11 @@
+.constantin.ko.cmd
+.constantin.mod.cmd
+.constantin.mod.o.cmd
+.constantin.o.cmd
+Module.symvers
+constantin.ko
+constantin.mod
+constantin.mod.c
+constantin.mod.o
+constantin.o
+modules.order
