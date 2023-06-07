@@ -1,7 +1,7 @@
 # Instant Messaging Meets Video Conferencing: Studying the Performance of IM Video Calls
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8006901.svg)](https://doi.org/10.5281/zenodo.8006901)
 
-This repository holds the data associated to the [TMA 2023](https://tma.ifip.org/2023/accepted-papers/) paper of the same name.
+This repository holds the data associated to the [TMA 2023](https://tma.ifip.org/2023/accepted-papers/) [paper](https://www.comsys.rwth-aachen.de/fileadmin/papers/2023/2023-grote-mvca-fairness.pdf) of the same name.
 
 # Publication
 
